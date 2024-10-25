@@ -1,0 +1,6 @@
+sistema, dato, estado
+A, 192.168.1.1, incompleto
+B, null, sin datos
+C, 10.0.0.5, error
+A, 172.16.0.1, incompleto
+B, 192.168.0.3, sin datos
